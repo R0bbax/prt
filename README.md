@@ -1,2 +1,3 @@
 # prt
-Hallo
+
+This is a test file inside the directory 
